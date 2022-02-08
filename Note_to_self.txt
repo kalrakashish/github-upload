@@ -1,0 +1,6 @@
+This is to keep track of my daily practice.
+
+I hope i keep it up.
+
+Daily practice of atleast 5 pyhton and sql questions.
+

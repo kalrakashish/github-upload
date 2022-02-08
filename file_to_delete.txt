@@ -1,5 +1,0 @@
-This is to keep track of the daily practice.
-
-I hope i keep it up.
-
-Git is tracking my changes
